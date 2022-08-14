@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CONTACT INFO"
-permalink: https://jcksnvllxr80.github.io/about/contact
+permalink: https://jcksnvllxr80.github.io/contact
 ---
 
 ## [facebook](https://www.facebook.com/ac.watkins80)
