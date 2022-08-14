@@ -12,4 +12,4 @@ permalink: https://jcksnvllxr80.github.io/contact
 
 ## gmail
 
-> ac.watkins80@gmail.com
+ac.watkins80@gmail.com
