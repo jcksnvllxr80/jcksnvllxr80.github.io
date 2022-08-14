@@ -16,4 +16,6 @@ permalink: jcksnvllxr80/contact
 
 ---
 
-## [gmail](ac.watkins80@gmail.com)
+## gmail
+
+ac.watkins80@gmail.com
