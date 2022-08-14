@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CONTACT"
-permalink: https://jcksnvllxr80.github.io/contact
+filename: contact.md
 ---
 
 <!-- # contact info -->
