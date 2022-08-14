@@ -1,8 +1,8 @@
 layout: page
 title: "CONTACT"
-permalink: jcksnvllxr80/contact
+permalink: /jcksnvllxr80/contact/
 
-# contact me
+# contact info
 
 ## [facebook](https://www.facebook.com/ac.watkins80)
 
