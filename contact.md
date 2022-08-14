@@ -4,7 +4,7 @@ title: "CONTACT"
 permalink: https://jcksnvllxr80.github.io/contact
 ---
 
-# contact info
+<!-- # contact info -->
 
 ## [facebook](https://www.facebook.com/ac.watkins80)
 
