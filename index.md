@@ -1,3 +1,5 @@
+# build a website with github pages using this [link](https://docs.github.com/en/pages/quickstart#creating-your-website)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jcksnvllxr80/jcksnvllxr80.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
