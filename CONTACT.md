@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "CONTACT"
-filename: contact.md
+title: "CONTACT INFO"
+permalink: https://jcksnvllxr80.github.io/about/contact
 ---
-
-<!-- # contact info -->
 
 ## [facebook](https://www.facebook.com/ac.watkins80)
 
