@@ -1,5 +1,5 @@
-# build a website with github pages using this [link](https://docs.github.com/en/pages/quickstart#creating-your-website)
+# Welcome to my GitHub Pages site
 
-## Welcome to my GitHub Pages site
+[build your own](https://docs.github.com/en/pages/quickstart#creating-your-website) github.io site 
 
-## contact me [here](https://jcksnvllxr80.github.io/contact).
+## [contact me](https://jcksnvllxr80.github.io/contact).
