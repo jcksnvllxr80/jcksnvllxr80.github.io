@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CONTACT"
-permalink: jcksnvllxr80.github.io/contact
+permalink: https://jcksnvllxr80.github.io/contact
 ---
 
 # contact info
